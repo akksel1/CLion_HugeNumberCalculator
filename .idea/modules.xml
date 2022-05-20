@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CLion_HugeNumberCalculator.iml" filepath="$PROJECT_DIR$/.idea/CLion_HugeNumberCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CLion_HugeNumberCalculator2.iml" filepath="$PROJECT_DIR$/.idea/CLion_HugeNumberCalculator2.iml" />
     </modules>
   </component>
