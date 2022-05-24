@@ -1,12 +1,12 @@
 # ninja log v5
-1	549	6750779314677804	CMakeFiles/CLion_HugeNumberCalculator.dir/DataTypes/DoublyLinkedList.c.obj	5ce897461529f536
-23	553	6750779314849660	CMakeFiles/CLion_HugeNumberCalculator.dir/IHMHHugeNumber/ScanHugeNumber.c.obj	25e403947042fdd9
-46	557	6750779315477152	CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeFloatOperator.c.obj	7d7e5bffc078a5d4
-93	563	6750779315709013	CMakeFiles/CLion_HugeNumberCalculator.dir/IHMHHugeNumber/ShowHugeNumber.c.obj	b6291d95472c325e
-127	563	6750779316497456	CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeUnsignedIntOperator.c.obj	36461bc53e534913
-179	564	6750779317093347	CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeFloat.c.obj	8305c6c538a2ef09
-262	577	6750779317984449	CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeIntOperator.c.obj	8a41bb562a1c580
-349	627	6750779318436299	CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeUnsignedInt.c.obj	4eb15b63770c2a00
-426	665	6750779318845505	CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeInt.c.obj	1b20e285169aaffc
-3	125	6750780915267221	CMakeFiles/CLion_HugeNumberCalculator.dir/main.c.obj	9d4d1a96aca30ab4
-126	307	6750780917099927	CLion_HugeNumberCalculator.exe	edbf698437d2f8e0
+14	120	6750806400694589	CMakeFiles/CLion_HugeNumberCalculator.dir/IHMHHugeNumber/ScanHugeNumber.c.obj	b2a214ffd45e19f7
+18	126	6750806400764608	CMakeFiles/CLion_HugeNumberCalculator.dir/IHMHHugeNumber/ShowHugeNumber.c.obj	4cb61060bf175d2
+26	135	6750806400844627	CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeIntOperator.c.obj	bc624edabe5169f0
+22	140	6750806400894641	CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeFloatOperator.c.obj	d6b9b43e029dfcb6
+1	144	6750806400924676	CMakeFiles/CLion_HugeNumberCalculator.dir/DataTypes/DoublyLinkedList.c.obj	babb21778b8292bf
+29	147	6750806400984664	CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeFloat.c.obj	838c5911d0f23189
+34	152	6750806401044665	CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeUnsignedInt.c.obj	efcf196114842277
+48	153	6750806401044665	CMakeFiles/CLion_HugeNumberCalculator.dir/main.c.obj	b3825d6f60bc8cba
+38	154	6750806401064665	CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeUnsignedIntOperator.c.obj	771407375fe6012
+43	154	6750806401054670	CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeInt.c.obj	7c7b4ae8306792de
+155	284	6750806402344953	CLion_HugeNumberCalculator.exe	5949f74261e3d6f0
