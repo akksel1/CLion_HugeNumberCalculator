@@ -1,3 +1,6 @@
+#include "HugeUnsignedIntOperator.h"
+#include "ShowHugeNumber.h"
+
 int main (void) {
     HugeUnsignedInt* hugeNumber = createHugeUnsignedIntFromString ("123456789012345678901234567890");
     printHugeUnsignedInt (hugeNumber);
