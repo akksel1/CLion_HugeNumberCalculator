@@ -1,4 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.1.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\louka\CLionProjects\CLion_HugeNumberCalculator -B C:\Users\louka\CLionProjects\CLion_HugeNumberCalculator\cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/cmake-build-debug
+

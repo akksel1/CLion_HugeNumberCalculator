@@ -6,7 +6,7 @@
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
-  <component name="CMakeRunConfigurationManager">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
   </component>
   <component name="CMakeSettings">
@@ -15,11 +15,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd26bc1d-522b-46dc-8743-275d503ccf22" name="Changes" comment="Folders">
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CLion_HugeNumberCalculator2.iml" beforeDir="false" />
-    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,13 +24,22 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev_test" />
+        <entry key="$PROJECT_DIR$" value="dev_printHugeUnsignedInt" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="release_.*" />
+        <option value="main" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,12 +57,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Git.Branch.Popup.ShowAllRemotes&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
-  }
-}</component>
+
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Efrei\CLion\CLion_HugeNumberCalculator\UseHugeNumber\Type" />
@@ -82,7 +82,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bc457c6d-3a04-41a1-85fd-9b4fc16b5327" name="Changes" comment="" />
+      <changelist id="cd26bc1d-522b-46dc-8743-275d503ccf22" name="Changes" comment="Folders" />
       <created>1653027973282</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -93,6 +93,7 @@
       <workItem from="1653234471097" duration="14000" />
       <workItem from="1653325132422" duration="904000" />
       <workItem from="1653326832523" duration="374000" />
+      <workItem from="1653378861068" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit - Lot 1">
       <created>1653028536441</created>
