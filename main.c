@@ -3,8 +3,13 @@
 
 #include "HugeFloatOperator.h"
 #include "HugeIntOperator.h"
-#include "IHMHugeNumber/ScanHugeNumber.h"
-#include "IHMHugeNumber/ShowHugeNumber.h"
+#include "HugeUnsignedIntOperator.h"
+#include "ScanHugeNumber.h"
+#include "ShowHugeNumber.h"
+#include "HugeFloat.h"
+#include "HugeInt.h"
+#include "HugeUnsignedInt.h"
+#include "DoublyLinkedList.h"
 
 
 int main (void) {

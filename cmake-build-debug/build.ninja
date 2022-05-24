@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target CLion_HugeNumberCalculator
 
@@ -49,91 +49,91 @@ cmake_ninja_workdir = C$:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/cmake-
 
 build cmake_object_order_depends_target_CLion_HugeNumberCalculator: phony || CMakeFiles/CLion_HugeNumberCalculator.dir
 
-build CMakeFiles/CLion_HugeNumberCalculator.dir/DataTypes/DoublyLinkedList.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/DataTypes/DoublyLinkedList.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
+build CMakeFiles/CLion_HugeNumberCalculator.dir/DataTypes/DoublyLinkedList.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/DataTypes/DoublyLinkedList.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
   DEP_FILE = CMakeFiles\CLion_HugeNumberCalculator.dir\DataTypes\DoublyLinkedList.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/DataTypes -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type
+  INCLUDES = -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/DataTypes -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type
   OBJECT_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir
   OBJECT_FILE_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir\DataTypes
   TARGET_COMPILE_PDB = CMakeFiles\CLion_HugeNumberCalculator.dir\
   TARGET_PDB = CLion_HugeNumberCalculator.pdb
 
-build CMakeFiles/CLion_HugeNumberCalculator.dir/IHMHHugeNumber/ScanHugeNumber.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/IHMHHugeNumber/ScanHugeNumber.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
+build CMakeFiles/CLion_HugeNumberCalculator.dir/IHMHHugeNumber/ScanHugeNumber.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/IHMHHugeNumber/ScanHugeNumber.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
   DEP_FILE = CMakeFiles\CLion_HugeNumberCalculator.dir\IHMHHugeNumber\ScanHugeNumber.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/DataTypes -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type
+  INCLUDES = -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/DataTypes -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type
   OBJECT_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir
   OBJECT_FILE_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir\IHMHHugeNumber
   TARGET_COMPILE_PDB = CMakeFiles\CLion_HugeNumberCalculator.dir\
   TARGET_PDB = CLion_HugeNumberCalculator.pdb
 
-build CMakeFiles/CLion_HugeNumberCalculator.dir/IHMHHugeNumber/ShowHugeNumber.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/IHMHHugeNumber/ShowHugeNumber.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
+build CMakeFiles/CLion_HugeNumberCalculator.dir/IHMHHugeNumber/ShowHugeNumber.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/IHMHHugeNumber/ShowHugeNumber.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
   DEP_FILE = CMakeFiles\CLion_HugeNumberCalculator.dir\IHMHHugeNumber\ShowHugeNumber.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/DataTypes -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type
+  INCLUDES = -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/DataTypes -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type
   OBJECT_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir
   OBJECT_FILE_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir\IHMHHugeNumber
   TARGET_COMPILE_PDB = CMakeFiles\CLion_HugeNumberCalculator.dir\
   TARGET_PDB = CLion_HugeNumberCalculator.pdb
 
-build CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeFloatOperator.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator/HugeFloatOperator.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
+build CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeFloatOperator.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator/HugeFloatOperator.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
   DEP_FILE = CMakeFiles\CLion_HugeNumberCalculator.dir\UseHugeNumber\Operator\HugeFloatOperator.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/DataTypes -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type
+  INCLUDES = -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/DataTypes -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type
   OBJECT_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir
   OBJECT_FILE_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir\UseHugeNumber\Operator
   TARGET_COMPILE_PDB = CMakeFiles\CLion_HugeNumberCalculator.dir\
   TARGET_PDB = CLion_HugeNumberCalculator.pdb
 
-build CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeIntOperator.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator/HugeIntOperator.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
+build CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeIntOperator.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator/HugeIntOperator.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
   DEP_FILE = CMakeFiles\CLion_HugeNumberCalculator.dir\UseHugeNumber\Operator\HugeIntOperator.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/DataTypes -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type
+  INCLUDES = -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/DataTypes -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type
   OBJECT_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir
   OBJECT_FILE_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir\UseHugeNumber\Operator
   TARGET_COMPILE_PDB = CMakeFiles\CLion_HugeNumberCalculator.dir\
   TARGET_PDB = CLion_HugeNumberCalculator.pdb
 
-build CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeUnsignedIntOperator.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator/HugeUnsignedIntOperator.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
+build CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeUnsignedIntOperator.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator/HugeUnsignedIntOperator.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
   DEP_FILE = CMakeFiles\CLion_HugeNumberCalculator.dir\UseHugeNumber\Operator\HugeUnsignedIntOperator.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/DataTypes -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type
+  INCLUDES = -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/DataTypes -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type
   OBJECT_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir
   OBJECT_FILE_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir\UseHugeNumber\Operator
   TARGET_COMPILE_PDB = CMakeFiles\CLion_HugeNumberCalculator.dir\
   TARGET_PDB = CLion_HugeNumberCalculator.pdb
 
-build CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeFloat.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type/HugeFloat.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
+build CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeFloat.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type/HugeFloat.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
   DEP_FILE = CMakeFiles\CLion_HugeNumberCalculator.dir\UseHugeNumber\Type\HugeFloat.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/DataTypes -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type
+  INCLUDES = -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/DataTypes -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type
   OBJECT_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir
   OBJECT_FILE_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir\UseHugeNumber\Type
   TARGET_COMPILE_PDB = CMakeFiles\CLion_HugeNumberCalculator.dir\
   TARGET_PDB = CLion_HugeNumberCalculator.pdb
 
-build CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeInt.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type/HugeInt.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
+build CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeInt.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type/HugeInt.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
   DEP_FILE = CMakeFiles\CLion_HugeNumberCalculator.dir\UseHugeNumber\Type\HugeInt.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/DataTypes -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type
+  INCLUDES = -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/DataTypes -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type
   OBJECT_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir
   OBJECT_FILE_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir\UseHugeNumber\Type
   TARGET_COMPILE_PDB = CMakeFiles\CLion_HugeNumberCalculator.dir\
   TARGET_PDB = CLion_HugeNumberCalculator.pdb
 
-build CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeUnsignedInt.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type/HugeUnsignedInt.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
+build CMakeFiles/CLion_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeUnsignedInt.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type/HugeUnsignedInt.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
   DEP_FILE = CMakeFiles\CLion_HugeNumberCalculator.dir\UseHugeNumber\Type\HugeUnsignedInt.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/DataTypes -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type
+  INCLUDES = -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/DataTypes -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type
   OBJECT_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir
   OBJECT_FILE_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir\UseHugeNumber\Type
   TARGET_COMPILE_PDB = CMakeFiles\CLion_HugeNumberCalculator.dir\
   TARGET_PDB = CLion_HugeNumberCalculator.pdb
 
-build CMakeFiles/CLion_HugeNumberCalculator.dir/main.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/main.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
+build CMakeFiles/CLion_HugeNumberCalculator.dir/main.c.obj: C_COMPILER__CLion_HugeNumberCalculator_Debug C$:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/main.c || cmake_object_order_depends_target_CLion_HugeNumberCalculator
   DEP_FILE = CMakeFiles\CLion_HugeNumberCalculator.dir\main.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/DataTypes -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/UseHugeNumber/Type
+  INCLUDES = -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/DataTypes -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/IHMHHugeNumber -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Operator -IC:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/UseHugeNumber/Type
   OBJECT_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir
   OBJECT_FILE_DIR = CMakeFiles\CLion_HugeNumberCalculator.dir
   TARGET_COMPILE_PDB = CMakeFiles\CLion_HugeNumberCalculator.dir\
@@ -163,7 +163,7 @@ build CLion_HugeNumberCalculator.exe: C_EXECUTABLE_LINKER__CLion_HugeNumberCalcu
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Matteo\Desktop\CLion_HugeNumberCalculator\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\louka\CLionProjects\CLion_HugeNumberCalculator\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -174,7 +174,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Matteo\Desktop\CLion_HugeNumberCalculator\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\Matteo\Desktop\CLion_HugeNumberCalculator -BC:\Users\Matteo\Desktop\CLion_HugeNumberCalculator\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\louka\CLionProjects\CLion_HugeNumberCalculator\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\louka\CLionProjects\CLion_HugeNumberCalculator -BC:\Users\louka\CLionProjects\CLion_HugeNumberCalculator\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -192,7 +192,7 @@ build CLion_HugeNumberCalculator: phony CLion_HugeNumberCalculator.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Matteo/Desktop/CLion_HugeNumberCalculator/cmake-build-debug
+# Folder: C:/Users/louka/CLionProjects/CLion_HugeNumberCalculator/cmake-build-debug
 
 build all: phony CLion_HugeNumberCalculator.exe
 
