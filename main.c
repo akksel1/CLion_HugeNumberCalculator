@@ -1,7 +1,10 @@
 #include <stdio.h>
+#include <stdlib.h>
+
 #include "HugeFloatOperator.h"
 #include "HugeIntOperator.h"
-#include "ShowHugeNumber.h"
+#include "IHMHugeNumber/ScanHugeNumber.h"
+#include "IHMHugeNumber/ShowHugeNumber.h"
 
 
 int main (void) {
