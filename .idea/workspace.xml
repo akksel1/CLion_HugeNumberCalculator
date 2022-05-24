@@ -15,10 +15,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd26bc1d-522b-46dc-8743-275d503ccf22" name="Changes" comment="Folders">
-      <change beforePath="$PROJECT_DIR$/.idea/CLion_HugeNumberCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CLion_HugeNumberCalculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd26bc1d-522b-46dc-8743-275d503ccf22" name="Changes" comment="Folders" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev_test" />
+        <entry key="$PROJECT_DIR$" value="dev_printHugeUnsignedInt" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,12 +67,12 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="CLion_HugeNumberCalculator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLion_HugeNumberCalculator" TARGET_NAME="CLion_HugeNumberCalculator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLion_HugeNumberCalculator" RUN_TARGET_NAME="CLion_HugeNumberCalculator">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="CLion_HugeNumberCalculator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLion_HugeNumberCalculator" TARGET_NAME="CLion_HugeNumberCalculator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLion_HugeNumberCalculator" RUN_TARGET_NAME="CLion_HugeNumberCalculator">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
